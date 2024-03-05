@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Hello World",
+    "conteudo": "Bem vindo ao ML5-notas.",
+    "data": "2024-03-05 09:26:58",
+    "tags": [
+      "boas_vindas",
+      "manual"
+    ]
+  },
+  {
+    "titulo": "Navega\u00e7\u00e3o ML5-notas",
+    "conteudo": "Criar sistem de menu ou associar atalhos as fun\u00e7\u00f5es",
+    "data": "2024-03-05 09:35:56",
+    "tags": [
+      "ml5-notas",
+      "desenvolvimento"
+    ]
+  }
+]
