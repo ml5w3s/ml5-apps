@@ -16,5 +16,13 @@
       "ml5-notas",
       "desenvolvimento"
     ]
+  },
+  {
+    "titulo": "Filtros ML5-notas.",
+    "conteudo": "Filtrar notas pelas tags",
+    "data": "06-03-24 00:02:01",
+    "tags": [
+      "ml5-notas, desenvolvimento"
+    ]
   }
 ]
